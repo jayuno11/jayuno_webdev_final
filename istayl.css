@@ -13,7 +13,7 @@ html,h1,h2,h3,h4,h5,h6,a{
   text-decoration: none;
 }
 .nav-link , .navbar-brand{
-	color: red;
+	color: blue;
 	cursor: pointer;
 }
 .nav-link{
@@ -21,7 +21,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 }
 .nav-link:hover{
 	background: grey;
-	color: white;
+	color: blue;
 
 }
 .navbar-collapse{
@@ -58,18 +58,18 @@ html,h1,h2,h3,h4,h5,h6,a{
 
 }
 .description h1{
-	color: red ;
+	color: blue ;
   font-size: 70px;
 }
 .description p{
-	color: white;
+	color: blue;
 	font-size: 20px;
 	width: 50%;
 	line-height: 2;
 }
 .description button{
 	border:1px  solid #F97300;
-	background: white;
+	background: blue;
 	color: black;
 }
 .about{
@@ -78,7 +78,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 	position: relative;
 }
 .about h1{
-	color: red;
+	color: blue;
 	margin: 1em;
 }
 .about img{
@@ -87,7 +87,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 }
 .about span{
 	display: block;
-	color: white;
+	color: blue
 	position: absolute;
 	left: 115px;
 }
@@ -96,7 +96,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 	border-left:4px solid #10828C;
 }
 .about .desc h3{
-	color: white;
+	color:blue;
 }
 .about .desc p{
 	line-height:2;
