@@ -20,7 +20,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 	margin-right: 1em !important;
 }
 .nav-link:hover{
-	background: grey;
+	background: blue;
 	color: blue;
 
 }
@@ -100,7 +100,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 }
 .about .desc p{
 	line-height:2;
-	color: white;
+	color: blue;
 }
 
 
@@ -185,9 +185,9 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: grey;
+  background-color: blue;
   text-decoration: none;
-  color: white;
+  color: blue;
 }
 
 li.dropdown {
@@ -215,7 +215,7 @@ li.dropdown {
 
 .dropdown-content a:hover {
   text-decoration: none;
-  color: black;
+  color: blue;
   background-color: grey;}
 
 .dropdown:hover .dropdown-content {
